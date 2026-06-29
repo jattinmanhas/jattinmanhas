@@ -51,5 +51,7 @@ Currently working at **STPLGlobal**, where I design and develop high-performance
 
 ## 📊 GitHub Stats
 
-[![Jattin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jattinmanhas&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/jattinmanhas)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jattinmanhas&layout=compact&theme=dark&hide_border=true&count_private=true)](https://github.com/jattinmanhas)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=jattinmanhas&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" alt="Jattin's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jattinmanhas&layout=compact&theme=dark&hide_border=true&count_private=true&cache_seconds=86400" alt="Top Languages" />
+</p>
