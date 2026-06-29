@@ -33,6 +33,7 @@ Currently working at **STPLGlobal**, where I design and develop high-performance
 | Project | Description | Tech |
 |---|---|---|
 | [Password Manager](https://github.com/jattinmanhas/Password-Manager) | Secure cross-platform password manager with AES-256 encryption, local vault storage, CLI + REST API | Go, TypeScript |
+| [Distributed Job Queue](https://github.com/jattinmanhas/Distributed-Job-Queue) | Scalable distributed job queue system built with Go | Go |
 | [GearboxV2](https://github.com/jattinmanhas/GearboxV2) | Full-stack web application — updated and improved version of the original Gearbox project | TypeScript |
 | [RAG Learnings](https://github.com/jattinmanhas/RAG_Learnings_Code) | Hands-on code exploring Retrieval Augmented Generation (RAG) patterns | TypeScript |
 | [Spring Video Streaming](https://github.com/jattinmanhas/spring-video-streaming) | Video streaming service built with Spring Boot | Java |
@@ -46,12 +47,3 @@ Currently working at **STPLGlobal**, where I design and develop high-performance
 - 💡 Interested in system design, distributed systems, and performance optimization
 - 📫 Reach me at: **jattinmanhas17@gmail.com**
 - 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/jattin-manhas/)
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jattinmanhas&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" alt="Jattin's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jattinmanhas&layout=compact&theme=dark&hide_border=true&count_private=true&cache_seconds=86400" alt="Top Languages" />
-</p>
