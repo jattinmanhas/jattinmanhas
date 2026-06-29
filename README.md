@@ -20,6 +20,7 @@ Currently working at **STPLGlobal**, where I design and develop high-performance
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat)
 ![Microservices](https://img.shields.io/badge/Microservices-FF6C37?style=flat)
+![Distributed Job Queue](https://img.shields.io/badge/Distributed_Job_Queue-6C3483?style=flat)
 
 **DevOps & Cloud**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
@@ -50,5 +51,5 @@ Currently working at **STPLGlobal**, where I design and develop high-performance
 
 ## 📊 GitHub Stats
 
-![Jattin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jattinmanhas&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jattinmanhas&layout=compact&theme=dark&hide_border=true)
+[![Jattin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jattinmanhas&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/jattinmanhas)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jattinmanhas&layout=compact&theme=dark&hide_border=true&count_private=true)](https://github.com/jattinmanhas)
